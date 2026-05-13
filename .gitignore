@@ -5,6 +5,7 @@
 !cpp/
 !src
 !include
+!docs
 
 !files
 
@@ -15,3 +16,4 @@
 !*.sh
 !*.py
 !*.txt
+!*.png
