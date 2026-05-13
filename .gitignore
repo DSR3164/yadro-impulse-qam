@@ -1,0 +1,17 @@
+*
+
+!.gitignore
+!README.md
+!cpp/
+!src
+!include
+
+!files
+
+!python/
+
+!*.cpp
+!*.hpp
+!*.sh
+!*.py
+!*.txt
